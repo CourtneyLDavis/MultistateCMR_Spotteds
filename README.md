@@ -38,7 +38,9 @@ For female analysis where movement was only modeled between years as a function 
 - `state2018_females.txt`: data file describing whether an individual was captured on each trap day (i.e., 1 if captured, 0 if not) in 2018
 - `state2019_females.txt`: data file describing whether an individual was captured on each trap day (i.e., 1 if captured, 0 if not) in 2019
 
-Data matrix describing distance between 12 wetlands in study region
+Distance between sites
+- `DistanceMatrix_AMMACMR.csv`: data file describing the distance between the 12 ponds in our study region
+
 
 ### Scripts 
 For male analysis
