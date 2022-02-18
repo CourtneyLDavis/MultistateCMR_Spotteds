@@ -15,6 +15,8 @@ Courtney L. Davis*, David J. Muñoz, Staci M. Amburgey, Carli R. Dinsmore, Eric 
 
 4. We found that inter-annual site fidelity of males varied among wetlands and was positively associated with population density. Females exhibited higher inter-annual site fidelity and dispersed further than males between breeding seasons. Within breeding seasons, we found that up to 6% of males dispersed to a new wetland each day. 
 
+5. Our study is the first to directly compare amphibian breeding dispersal probabilities and distances at multiple scales and provides a robust framework for improving inference on the spatial and temporal patterns of amphibian movement. 
+
 ## Repository Directory
 
 ### Data
