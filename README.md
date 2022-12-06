@@ -1,5 +1,5 @@
 # Multistate mark-recapture model to estimate sex-specific dispersal rates and distances for a wetland breeding amphibian metapopulation
-In Review 
+Accepted at Ecosphere
 
 Courtney L. Davis*, David J. Muñoz, Staci M. Amburgey, Carli R. Dinsmore, Eric W. Teitsworth, David A. W. Miller
 
